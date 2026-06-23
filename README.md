@@ -1,5 +1,4 @@
 # smarthome-vsion-1.0
-# SmartHome DIY
 
 A Local-First Smart Home Platform built for makers, embedded developers, and DIY enthusiasts.
 
